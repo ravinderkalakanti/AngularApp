@@ -1,39 +1,28 @@
-# angular2-esri-example
-This is an example app using [ArcGIS API for JavaScript] **v3** in an [Angular 2] app.
-The purpose is to explore ways that [Angular 2] components and services can communicate
-with a map, legend, search, etc.
+# Angular2Map
 
-![screenshot](https://raw.github.com/tomwayson/angular2-esri-example/master/sreenshot.png)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
-[Try it out!](http://tomwayson.github.io/angular2-esri-example/)
+## Development server
 
-## Quick Start
-After downloading, run the following at the command line to run the app:
-```bash
-npm install
-npm start
-```
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Status
-The patterns for communicating between components, services, and ArcGIS maps and data have been established. I'm no longer actively maintaining this repository (i.e. not adding new features, nor keeping it up to date with new releases of Angular 2 nor the ArcGIS API for JavaScript). Pull requests to demonstrate more up to date patterns, or update versions of dependencies will be gladly accepted.
+## Code scaffolding
 
-## Resources
-* [Using the ArcGIS API for JavaScript in Applications built with webpack](http://tomwayson.com/2016/11/27/using-the-arcgis-api-for-javascript-in-applications-built-with-webpack/)
-* [Example of how to get the ArcGIS API for JavaScript working with webpack and TypeScript](https://github.com/lobsteropteryx/esri-webpack-typescript) by [@lobsteropteryx](https://github.com/lobsteropteryx/)
-* [Angular 2 introduction to webpack](https://angular.io/docs/ts/latest/guide/webpack.html)
-* [Example of how to use the ArcGIS API for JavaScript in an angular-cli application](https://github.com/tomwayson/esri-angular-cli-example)
-* [Fork of the Angular Class webpack starter using use the ArcGIS API for JavaScript](https://github.com/hassanqaiser/angular2_webpack2_esri) by [@hassanqaiser](https://github.com/hassanqaiser)
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
 
-While writing this app, I found the following resources very helpful, though at this point they may be a bit out of date:
-* [Angular 2 Component Interaction](https://angular.io/docs/ts/latest/cookbook/component-communication.html)
-* [Dependency Injection in Angular 1 and Angular 2](http://victorsavkin.com/post/126514197956/dependency-injection-in-angular-1-and-angular-2)
+## Build
 
-Built with:
-* [ArcGIS API for JavaScript]
-* [Angular 2]
-* [TypeScript]
-* [webpack](http://webpack.github.io/)
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-[ArcGIS API for JavaScript]:https://developers.arcgis.com/javascript/
-[Angular 2]:https://angular.io/
-[TypeScript]:http://www.typescriptlang.org/
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Before running the tests make sure you are serving the app via `ng serve`.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).

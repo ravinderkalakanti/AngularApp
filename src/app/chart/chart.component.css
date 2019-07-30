@@ -1,0 +1,29 @@
+div{
+	height: 100%;
+}
+.chart{
+	height: 27em;
+    position: absolute;
+    overflow: hidden;
+    z-index: 980;
+    width: calc(100% - 50px);
+    bottom: 8px;
+    margin-left: 10px;
+    background: -webkit-linear-gradient(#1e1e1e,#1e1e1e);
+    background: linear-gradient(#1e1e1e,#1e1e1e);
+    border: 1px solid #5e696e;
+    box-shadow: 2px 5px 20px #101010;
+}
+
+#container{
+	width: 50%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+}
+ #container2{
+	width: 50%;
+    height: 100%;
+    display: inline-block;
+   }

@@ -1,0 +1,218 @@
+[{
+		"id": "001",
+		"name": "Nagaland",
+		"posvalue": "100",
+		"latitude": "25.6669979",
+		"longitude": "94.11657019"
+	},
+	{
+		"id": "002",
+		"name": "Andhra Pradesh",
+		"posvalue": "50",
+		"latitude": "14.7504291",
+		"longitude": "78.57002559"
+	},
+	{
+		"id": "003",
+		"name": "Arunachal Pradesh",
+		"posvalue": "1000",
+		"latitude": "27.10039878",
+		"longitude": "93.61660071"
+	},
+	{
+		"id": "004",
+		"name": "Assam",
+		"posvalue": "500",
+		"latitude": "26.7499809",
+		"longitude": "94.21666744"
+	},
+	{
+		"id": "005",
+		"name": "Bihar",
+		"posvalue": "3000",
+		"latitude": "25.78541445",
+		"longitude": "87.4799727"
+	},
+	{
+		"id": "006",
+		"name": "Chandigarh",
+		"posvalue": "900",
+		"latitude": "30.71999697",
+		"longitude": "76.78000565"
+	},
+	{
+		"id": "007",
+		"name": "Chhattisgarh",
+		"posvalue": "1500",
+		"latitude": "22.09042035",
+		"longitude": "82.15998734"
+	},
+	{
+		"id": "008",
+		"name": "Punjab",
+		"posvalue": "70",
+		"latitude": "31.51997398",
+		"longitude": "75.98000281"
+	},
+	{
+		"id": "009",
+		"name": "Delhi",
+		"posvalue": "8000",
+		"latitude": "28.6699929",
+		"longitude": "77.23000403"
+	},
+	{
+		"id": "010",
+		"name": "Goa",
+		"posvalue": "2500",
+		"latitude": "15.491997",
+		"longitude": "73.81800065"
+	},
+	{
+		"id": "011",
+		"name": "Haryana",
+		"posvalue": "600",
+		"latitude": "28.45000633",
+		"longitude": "77.01999101"
+	},
+	{
+		"id": "012",
+		"name": "Himachal Pradesh",
+		"posvalue": "6110",
+		"latitude": "31.10002545",
+		"longitude": "77.16659704"
+	},
+	{
+		"id": "013",
+		"name": "Jammu And Kashmir",
+		"posvalue": "510",
+		"latitude": "34.29995933",
+		"longitude": "74.46665849"
+	},
+	{
+		"id": "014",
+		"name": "Jharkhand",
+		"posvalue": "8190",
+		"latitude": "23.80039349",
+		"longitude": "86.41998572"
+	},
+	{
+		"id": "015",
+		"name": "Karnataka",
+		"posvalue": "9900",
+		"latitude": "12.57038129",
+		"longitude": "76.91999711"
+	},
+	{
+		"id": "016",
+		"name": "Kerala",
+		"posvalue": "8765",
+		"latitude": "8.900372741",
+		"longitude": "76.56999263"
+	},
+	{
+		"id": "017",
+		"name": "Rajasthan",
+		"posvalue": "6500",
+		"latitude": "26.44999921",
+		"longitude": "74.63998124"
+	},
+	{
+		"id": "018",
+		"name": "Madhya Pradesh",
+		"posvalue": "2100",
+		"latitude": "21.30039105",
+		"longitude": "76.13001949"
+	},
+	{
+		"id": "019",
+		"name": "Maharashtra",
+		"posvalue": "3100",
+		"latitude": "19.25023195",
+		"longitude": "73.16017493"
+	},
+	{
+		"id": "020",
+		"name": "Manipur",
+		"posvalue": "1700",
+		"latitude": "24.79997072",
+		"longitude": "93.95001705"
+	},
+	{
+		"id": "021",
+		"name": "Meghalaya",
+		"posvalue": "1080",
+		"latitude": "25.57049217",
+		"longitude": "91.8800142"
+	},
+	{
+		"id": "022",
+		"name": "Mizoram",
+		"posvalue": "4900",
+		"latitude": "23.71039899",
+		"longitude": "92.72001461"
+	},
+	{
+		"id": "023",
+		"name": "Orissa",
+		"posvalue": "1080",
+		"latitude": "19.82042971",
+		"longitude": "85.90001746"
+	},
+	{
+		"id": "024",
+		"name": "Sikkim",
+		"posvalue": "100",
+		"latitude": "27.3333303",
+		"longitude": "88.6166475"
+	},
+	{
+		"id": "025",
+		"name": "Tamil Nadu",
+		"posvalue": "3090",
+		"latitude": "12.92038576",
+		"longitude": "79.15004187"
+	},
+	{
+		"id": "026",
+		"name": "Tripura",
+		"posvalue": "10000",
+		"latitude": "23.83540428",
+		"longitude": "91.27999914"
+	},
+	{
+		"id": "027",
+		"name": "Uttar Pradesh",
+		"posvalue": "8100",
+		"latitude": "27.59998069",
+		"longitude": "78.05000565"
+	},
+	{
+		"id": "028",
+		"name": "Uttaranchal",
+		"posvalue": "7100",
+		"latitude": "30.32040895",
+		"longitude": "78.05000565"
+	},
+	{
+		"id": "029",
+		"name": "West Bengal",
+		"posvalue": "7070",
+		"latitude": "22.58039044",
+		"longitude": "88.32994665"
+	},
+	{
+		"id": "030",
+		"name": "Gujarat",
+		"posvalue": "1200",
+		"latitude": "22.2587",
+		"longitude": "71.1924"
+	},
+	{
+		"id": "031",
+		"name": "Uttarakhand",
+		"posvalue": "800",
+		"latitude": "30.0668",
+		"longitude": "79.0193"
+	}
+]
