@@ -25,7 +25,7 @@
     "angular2-highcharts": "^0.5.5",
     "bootstrap": "^4.1.1",
     "core-js": "^2.4.1",
-    "highcharts": "^5.0.12",
+    "highcharts": "^9.0.0",
     "rxjs": "^5.4.1",
     "zone.js": "^0.8.14",
     "ng-multiselect-dropdown": "^0.1.9",
